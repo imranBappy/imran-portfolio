@@ -8,13 +8,15 @@
 <!-- Mobile Metas -->
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+
+
+
 <!-- Site Metas -->
 <title>Imran Hossen</title>
 <meta property="title"
     content="Imran Hossen Bappy | Programer in Bangladesh | Front End Web Developer | Web Developer | Back End Developer | Full Stack Developer | MERN Stack Developer | Imran | Imran Bappy | Imran Hossen | Bappy | Programmer Imran" />
 
-<meta name="keywords"
-    content="Imran Hossen Bappy | Programer in Bangladesh | Front End Web Developer | Web Developer | Back End Developer | Full Stack Developer | MERN Stack Developer | Imran | Imran Bappy | Imran Hossen | Bappy | Programmer Imran">
+<meta name="keywords" content="Imran Hossen">
 <meta name="description"
     content="Dedicated and efficient full stack developer with 2+ years of experience in application layers. I worked as a front-end developer in Dubai. I was a front-end development trainer and full-stack web developer at Mangrove Institute of Science and Technology. I have completed many full-stack web applications. Seeking to further improve HTML5 and CSS3 and JavaScript skills as the future full stack developer.">
 <meta name="author" content="Imran Hossen Bappy">
@@ -24,7 +26,6 @@
 <!-- Site Icons -->
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" href="uploads/about_04.jpg">
-
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -100,25 +101,27 @@
             <h3 class="cd-headline clip is-full-width">
 
                 <span class="cd-words-wrapper">
-                    <b class="is-visible"> Full Stack Web Developer</b>
-                    <b>Web Designer</b>
-                    <b>Creative Designer</b>
-                    <b>SEO expert</b>
+                    <b class="is-visible">Web Developer</b>
+                    <b>Web Designr</b>
+                    <b>Creative Designr</b>
+                    <b>seo expert</b>
                 </span>
             </h3>
             <div class="socile-icon">
-                <span><a href="https://www.facebook.com/imranhossenbappy.official" target="blank"><img
-                            src="icon/facebook.png" alt="" /></a></span>
+                <span><a href="https://www.facebook.com/imran84759/" target="blank"><img src="icon/facebook.png"
+                            alt="" /></a></span>
                 <span><a href="https://twitter.com/ImranhossinBap1" target="blank"><img src="icon/twitter.png"
                             alt="" /></a></span>
                 <span><a href="https://www.linkedin.com/in/imran-hossen-bappy-a121a3199/" target="blank"><img
                             src="icon/linkedin.png" alt="" /></a></span>
-                <span><a href="https://github.com/imranBappy" target="blank"><img src="icon/icons8-github-64.png"
+                <span><a href="https://www.instagram.com/imran84759/" target="blank"><img src="icon/instagram.png"
                             alt="" /></a></span>
                 <span><a href="https://aboutme.google.com/u/1/?referer=gplus&pageId=none" target="blank"><img
                             src="icon/google+.png" alt="" /></a></span>
+
             </div>
         </div>
+
     </section>
 
     <svg id="clouds" class="hidden-xs" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
@@ -154,15 +157,13 @@
                     <div class="message-box">
                         <h2>About Imran Hossen</h2>
                         <p>I'm a Full Stack Web Developer & SEO expert.
-                            I have been working as a Full Stack Web Developer over the last 2 years. I use to work on
+                            I have been working as a Web Developer over the last 2 years. I use to work on
                             Freelancer.com .
                             I have experience in all expect of web development using JavaScript and PHP.I have skills in
                             PHP, JavaScript, WordPress Theme and Plugin Development beside that I am trained at
-                            front-end technology like HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, ReactJS,
-                            Angular.
+                            front-end technology like HTML, CSS, JavaScript, jQuery, Bootstrap.
                         </p>
-                        <a href="https://docs.google.com/document/d/1rfLHgJmEQsTUQf3x78cCbbkuDt3u4FQ7dF21W_p4wGM/edit?usp=sharing"
-                            class="sim-btn btn-hover-new" data-text="Visit CV"><span>Visit
+                        <a href="cv/bappy.docx" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download
                                 CV</span></a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
