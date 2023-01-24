@@ -2481,14 +2481,13 @@ select.mobile-device {
 
 .socile-icon {
 	    margin-top: 20px;
-
 }
 
 .socile-icon span{
 	border: 2px solid;
     border-radius: 50%;
     padding: 6px;
-	
+    background-color: rgba(77, 89, 116, 0.596);
 }
 
 .socile-icon span a img {
